@@ -1,1 +1,1 @@
-https://github.com/SinchanaRP24/CV.git
+https://roadmap.sh/projects/single-page-cv
